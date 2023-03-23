@@ -21,6 +21,12 @@ def main():
     FastTrain.setdestination_station("NZM")
     print(FastTrain)
 
+    womenSpecial = localTrain.clone()
+    womenSpecial.settiming("12:00 PM")
+    womenSpecial.setsource_station("DEL")
+    womenSpecial.setdestination_station("KNP")
+    print(womenSpecial)
+
 
 
 
