@@ -29,6 +29,12 @@ class Train(LocalTrain , prototype):
         return copy.deepcopy(self)
     
 
+    def getName(self):
+        return self.name
+    
+    def setName(self,name):
+        self.name = name
+
     def getfare(self):
         return self.fare
     
