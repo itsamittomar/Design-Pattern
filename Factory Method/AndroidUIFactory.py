@@ -4,12 +4,12 @@ import Component.Button.AndroidButton as AndroidButton
 import Component.Dropdown.AndroidDropDown as AndroidDropDown
 
 class AndroidUIFactory(UIFactory):
-    def createMenu():
+    def createMenu(self):
         return AndroidMenu()
     
-    def createButton():
+    def createButton(self):
         return AndroidButton()
     
-    def createDropDown():
+    def createDropDown(self):
         return AndroidDropDown()
 

@@ -7,6 +7,6 @@ from typing import Protocol
 #         pass 
 
 class prototype(Protocol):
-    def clone():
+    def clone(self):
         pass
 
