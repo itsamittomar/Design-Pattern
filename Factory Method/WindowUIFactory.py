@@ -4,12 +4,12 @@ import Component.Dropdown.WindowsDropDown as DropDown
 import Component.Menu.windowMenu as Menu
 
 class WindowsUIFactory(UIFactory):
-    def createMenu():
+    def createMenu(self):
         return Menu()
 
-    def createButton():
+    def createButton(self):
         return Button()
     
-    def createDropDown():
+    def createDropDown(self):
         return DropDown()
     

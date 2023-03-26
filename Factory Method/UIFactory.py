@@ -1,13 +1,13 @@
 from typing import Protocol
 
 class UIFactory(Protocol):
-    def createMenu():
+    def createMenu(self):
         pass
 
-    def createDropDown():
+    def createDropDown(self):
         pass 
 
-    def createButton():
+    def createButton(self):
         pass
 
     

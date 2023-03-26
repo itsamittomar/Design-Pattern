@@ -5,12 +5,12 @@ import Component.Menu.IOSMenu as IOSMenu
 
 
 class IOSUIFactory(UIFactory):
-    def createMenu():
+    def createMenu(self):
         return IOSMenu()
     
-    def createButton():
+    def createButton(self):
         return IOSBUtton()
 
-    def createDropDown():
+    def createDropDown(self):
         return IOSDropDown()
     
