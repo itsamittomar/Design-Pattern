@@ -1,4 +1,6 @@
-from  .button import Button
+from Component.Button.button import Button
 
 class AndroidButton(Button):
-    pass
+    def __int__(self):
+        pass
+
