@@ -1,0 +1,1204 @@
+[
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "abc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "abc",
+        "description": "abc",
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "components.foodmenu.Food",
+        "description": "components.foodmenu.Food",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.Food",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "components.foodmenu.Food",
+        "description": "components.foodmenu.Food",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.Food",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "importPath": "components.foodmenu.Food",
+        "description": "components.foodmenu.Food",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.Food",
+        "documentation": {}
+    },
+    {
+        "label": "Seat",
+        "importPath": "components.seattype.Seat",
+        "description": "components.seattype.Seat",
+        "isExtraImport": true,
+        "detail": "components.seattype.Seat",
+        "documentation": {}
+    },
+    {
+        "label": "Seat",
+        "importPath": "components.seattype.Seat",
+        "description": "components.seattype.Seat",
+        "isExtraImport": true,
+        "detail": "components.seattype.Seat",
+        "documentation": {}
+    },
+    {
+        "label": "Seat",
+        "importPath": "components.seattype.Seat",
+        "description": "components.seattype.Seat",
+        "isExtraImport": true,
+        "detail": "components.seattype.Seat",
+        "documentation": {}
+    },
+    {
+        "label": "TicketFactory",
+        "importPath": "Factoryabstractclass.TicketFactory",
+        "description": "Factoryabstractclass.TicketFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.TicketFactory",
+        "documentation": {}
+    },
+    {
+        "label": "TicketFactory",
+        "importPath": "Factoryabstractclass.TicketFactory",
+        "description": "Factoryabstractclass.TicketFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.TicketFactory",
+        "documentation": {}
+    },
+    {
+        "label": "TicketFactory",
+        "importPath": "Factoryabstractclass.TicketFactory",
+        "description": "Factoryabstractclass.TicketFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.TicketFactory",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessDrink",
+        "importPath": "components.drinkmenu.BusinessDrink",
+        "description": "components.drinkmenu.BusinessDrink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.BusinessDrink",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessFood",
+        "importPath": "components.foodmenu.BusinessFood",
+        "description": "components.foodmenu.BusinessFood",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.BusinessFood",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessSeat",
+        "importPath": "components.seattype.BusinessSeat",
+        "description": "components.seattype.BusinessSeat",
+        "isExtraImport": true,
+        "detail": "components.seattype.BusinessSeat",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyDrink",
+        "importPath": "components.drinkmenu.EconomyDrink",
+        "description": "components.drinkmenu.EconomyDrink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.EconomyDrink",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyFood",
+        "importPath": "components.foodmenu.EconomyFood",
+        "description": "components.foodmenu.EconomyFood",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.EconomyFood",
+        "documentation": {}
+    },
+    {
+        "label": "EconomySeat",
+        "importPath": "components.seattype.EconomySeat",
+        "description": "components.seattype.EconomySeat",
+        "isExtraImport": true,
+        "detail": "components.seattype.EconomySeat",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumDrink",
+        "importPath": "components.drinkmenu.PremiumDrink",
+        "description": "components.drinkmenu.PremiumDrink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.PremiumDrink",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumFood",
+        "importPath": "components.foodmenu.PremiumFood",
+        "description": "components.foodmenu.PremiumFood",
+        "isExtraImport": true,
+        "detail": "components.foodmenu.PremiumFood",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumSeat",
+        "importPath": "components.seattype.PremiumSeat",
+        "description": "components.seattype.PremiumSeat",
+        "isExtraImport": true,
+        "detail": "components.seattype.PremiumSeat",
+        "documentation": {}
+    },
+    {
+        "label": "TicketTypes",
+        "importPath": "TicketTypes.TicketsTypes",
+        "description": "TicketTypes.TicketsTypes",
+        "isExtraImport": true,
+        "detail": "TicketTypes.TicketsTypes",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessFactory",
+        "importPath": "Factoryabstractclass.BusinessFactory",
+        "description": "Factoryabstractclass.BusinessFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.BusinessFactory",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyFactory",
+        "importPath": "Factoryabstractclass.EconomyFactory",
+        "description": "Factoryabstractclass.EconomyFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.EconomyFactory",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumFactory",
+        "importPath": "Factoryabstractclass.PremiumFactory",
+        "description": "Factoryabstractclass.PremiumFactory",
+        "isExtraImport": true,
+        "detail": "Factoryabstractclass.PremiumFactory",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "TicketCounter",
+        "importPath": "TicketCounter",
+        "description": "TicketCounter",
+        "isExtraImport": true,
+        "detail": "TicketCounter",
+        "documentation": {}
+    },
+    {
+        "label": "DecideType",
+        "importPath": "TicketTypes.DecideType",
+        "description": "TicketTypes.DecideType",
+        "isExtraImport": true,
+        "detail": "TicketTypes.DecideType",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Protocol",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "button",
+        "description": "button",
+        "isExtraImport": true,
+        "detail": "button",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "button",
+        "description": "button",
+        "isExtraImport": true,
+        "detail": "button",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "MenuInterface",
+        "importPath": "menu",
+        "description": "menu",
+        "isExtraImport": true,
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "MenuInterface",
+        "importPath": "menu",
+        "description": "menu",
+        "isExtraImport": true,
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "importPath": "menu",
+        "description": "menu",
+        "isExtraImport": true,
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactory",
+        "importPath": "UIFactory",
+        "description": "UIFactory",
+        "isExtraImport": true,
+        "detail": "UIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactory",
+        "importPath": "UIFactory",
+        "description": "UIFactory",
+        "isExtraImport": true,
+        "detail": "UIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactory",
+        "importPath": "UIFactory",
+        "description": "UIFactory",
+        "isExtraImport": true,
+        "detail": "UIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactory",
+        "importPath": "UIFactory",
+        "description": "UIFactory",
+        "isExtraImport": true,
+        "detail": "UIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidButton",
+        "importPath": "Component.Button",
+        "description": "Component.Button",
+        "isExtraImport": true,
+        "detail": "Component.Button",
+        "documentation": {}
+    },
+    {
+        "label": "IOSButton",
+        "importPath": "Component.Button",
+        "description": "Component.Button",
+        "isExtraImport": true,
+        "detail": "Component.Button",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsButton",
+        "importPath": "Component.Button",
+        "description": "Component.Button",
+        "isExtraImport": true,
+        "detail": "Component.Button",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidDropDown",
+        "importPath": "Component.Dropdown",
+        "description": "Component.Dropdown",
+        "isExtraImport": true,
+        "detail": "Component.Dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "IOSDropDown",
+        "importPath": "Component.Dropdown",
+        "description": "Component.Dropdown",
+        "isExtraImport": true,
+        "detail": "Component.Dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsDropDown",
+        "importPath": "Component.Dropdown",
+        "description": "Component.Dropdown",
+        "isExtraImport": true,
+        "detail": "Component.Dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidMenu",
+        "importPath": "Component.Menu",
+        "description": "Component.Menu",
+        "isExtraImport": true,
+        "detail": "Component.Menu",
+        "documentation": {}
+    },
+    {
+        "label": "IOSMenu",
+        "importPath": "Component.Menu",
+        "description": "Component.Menu",
+        "isExtraImport": true,
+        "detail": "Component.Menu",
+        "documentation": {}
+    },
+    {
+        "label": "windowMenu",
+        "importPath": "Component.Menu",
+        "description": "Component.Menu",
+        "isExtraImport": true,
+        "detail": "Component.Menu",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "flutterr",
+        "importPath": "PhoneFactory.Flutterr",
+        "description": "PhoneFactory.Flutterr",
+        "isExtraImport": true,
+        "detail": "PhoneFactory.Flutterr",
+        "documentation": {}
+    },
+    {
+        "label": "SupportedPlatform",
+        "importPath": "PhoneFactory.SupportedPlatform",
+        "description": "PhoneFactory.SupportedPlatform",
+        "isExtraImport": true,
+        "detail": "PhoneFactory.SupportedPlatform",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactoryFactory",
+        "importPath": "UIFactoryFactory",
+        "description": "UIFactoryFactory",
+        "isExtraImport": true,
+        "detail": "UIFactoryFactory",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidUIFactory",
+        "importPath": "AndroidUIFactory",
+        "description": "AndroidUIFactory",
+        "isExtraImport": true,
+        "detail": "AndroidUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "IOSUIFactory",
+        "importPath": "IOSUIFactory",
+        "description": "IOSUIFactory",
+        "isExtraImport": true,
+        "detail": "IOSUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsUIFactory",
+        "importPath": "WindowUIFactory",
+        "description": "WindowUIFactory",
+        "isExtraImport": true,
+        "detail": "WindowUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "SupportedPlatform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "SupportedPlatform",
+        "description": "SupportedPlatform",
+        "detail": "SupportedPlatform",
+        "documentation": {}
+    },
+    {
+        "label": "SupportedPlatform",
+        "importPath": "SupportedPlatform",
+        "description": "SupportedPlatform",
+        "isExtraImport": true,
+        "detail": "SupportedPlatform",
+        "documentation": {}
+    },
+    {
+        "label": "LocalTrain",
+        "importPath": "Train",
+        "description": "Train",
+        "isExtraImport": true,
+        "detail": "Train",
+        "documentation": {}
+    },
+    {
+        "label": "Train",
+        "importPath": "Train",
+        "description": "Train",
+        "isExtraImport": true,
+        "detail": "Train",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "TrainRegistry",
+        "description": "TrainRegistry",
+        "isExtraImport": true,
+        "detail": "TrainRegistry",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "prototype",
+        "importPath": "prototype",
+        "description": "prototype",
+        "isExtraImport": true,
+        "detail": "prototype",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonInMultiThreading",
+        "importPath": "singleton",
+        "description": "singleton",
+        "isExtraImport": true,
+        "detail": "singleton",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidNameException",
+        "kind": 6,
+        "importPath": "Builder Method.customer",
+        "description": "Builder Method.customer",
+        "peekOfCode": "class InvalidNameException(Exception):\n    pass\nclass InvalidYoeException(Exception):\n    pass\nclass InvalidGradYearException(Exception):\n    pass\nclass Student:\n    def __init__(self, builder):\n        self.id = builder.id\n        self.name = builder.name",
+        "detail": "Builder Method.customer",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidYoeException",
+        "kind": 6,
+        "importPath": "Builder Method.customer",
+        "description": "Builder Method.customer",
+        "peekOfCode": "class InvalidYoeException(Exception):\n    pass\nclass InvalidGradYearException(Exception):\n    pass\nclass Student:\n    def __init__(self, builder):\n        self.id = builder.id\n        self.name = builder.name\n        self.yoe = builder.yoe\n        self.gradyear = builder.gradyear",
+        "detail": "Builder Method.customer",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidGradYearException",
+        "kind": 6,
+        "importPath": "Builder Method.customer",
+        "description": "Builder Method.customer",
+        "peekOfCode": "class InvalidGradYearException(Exception):\n    pass\nclass Student:\n    def __init__(self, builder):\n        self.id = builder.id\n        self.name = builder.name\n        self.yoe = builder.yoe\n        self.gradyear = builder.gradyear\n        self.psp = builder.psp\n        self.batchName = builder.batchName",
+        "detail": "Builder Method.customer",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "Builder Method.customer",
+        "description": "Builder Method.customer",
+        "peekOfCode": "class Student:\n    def __init__(self, builder):\n        self.id = builder.id\n        self.name = builder.name\n        self.yoe = builder.yoe\n        self.gradyear = builder.gradyear\n        self.psp = builder.psp\n        self.batchName = builder.batchName\n    def builder():\n        return Student.Builder()",
+        "detail": "Builder Method.customer",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessDrink",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.drinkmenu.BusinessDrink",
+        "description": "Factory_design_pattern.components.drinkmenu.BusinessDrink",
+        "peekOfCode": "class BusinessDrink(Drink):\n    def __init__(self) -> None:\n        pass",
+        "detail": "Factory_design_pattern.components.drinkmenu.BusinessDrink",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.drinkmenu.Drink",
+        "description": "Factory_design_pattern.components.drinkmenu.Drink",
+        "peekOfCode": "class Drink(ABC):\n    def __init__(self) -> None:\n        pass",
+        "detail": "Factory_design_pattern.components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyDrink",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.drinkmenu.EconomyDrink",
+        "description": "Factory_design_pattern.components.drinkmenu.EconomyDrink",
+        "peekOfCode": "class EconomyDrink(Drink):\n    def __init__(self) -> None:\n        pass",
+        "detail": "Factory_design_pattern.components.drinkmenu.EconomyDrink",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumDrink",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.drinkmenu.PremiumDrink",
+        "description": "Factory_design_pattern.components.drinkmenu.PremiumDrink",
+        "peekOfCode": "class PremiumDrink(Drink):\n    def __init__(self) -> None:\n        pass",
+        "detail": "Factory_design_pattern.components.drinkmenu.PremiumDrink",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessFood",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.foodmenu.BusinessFood",
+        "description": "Factory_design_pattern.components.foodmenu.BusinessFood",
+        "peekOfCode": "class BusinessFood(Food):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.foodmenu.BusinessFood",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyFood",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.foodmenu.EconomyFood",
+        "description": "Factory_design_pattern.components.foodmenu.EconomyFood",
+        "peekOfCode": "class EconomyFood(Food):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.foodmenu.EconomyFood",
+        "documentation": {}
+    },
+    {
+        "label": "Food",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.foodmenu.Food",
+        "description": "Factory_design_pattern.components.foodmenu.Food",
+        "peekOfCode": "class Food(ABC):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.foodmenu.Food",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumFood",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.foodmenu.PremiumFood",
+        "description": "Factory_design_pattern.components.foodmenu.PremiumFood",
+        "peekOfCode": "class PremiumFood(Food):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.foodmenu.PremiumFood",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessSeat",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.seattype.BusinessSeat",
+        "description": "Factory_design_pattern.components.seattype.BusinessSeat",
+        "peekOfCode": "class BusinessSeat(Seat):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.seattype.BusinessSeat",
+        "documentation": {}
+    },
+    {
+        "label": "EconomySeat",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.seattype.EconomySeat",
+        "description": "Factory_design_pattern.components.seattype.EconomySeat",
+        "peekOfCode": "class EconomySeat(Seat):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.seattype.EconomySeat",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumSeat",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.seattype.PremiumSeat",
+        "description": "Factory_design_pattern.components.seattype.PremiumSeat",
+        "peekOfCode": "class PremiumSeat(Seat):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.seattype.PremiumSeat",
+        "documentation": {}
+    },
+    {
+        "label": "Seat",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.components.seattype.Seat",
+        "description": "Factory_design_pattern.components.seattype.Seat",
+        "peekOfCode": "class Seat(ABC):\n    def __init__(self) -> None:\n        super().__init__()",
+        "detail": "Factory_design_pattern.components.seattype.Seat",
+        "documentation": {}
+    },
+    {
+        "label": "BusinessFactory",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.Factoryabstractclass.BusinessFactory",
+        "description": "Factory_design_pattern.Factoryabstractclass.BusinessFactory",
+        "peekOfCode": "class BusinessFactory(TicketFactory):\n    def createdrink(self):\n        return BusinessDrink()\n    def createfood(self):\n        return BusinessFood()\n    def createseat(self):\n        return BusinessSeat()",
+        "detail": "Factory_design_pattern.Factoryabstractclass.BusinessFactory",
+        "documentation": {}
+    },
+    {
+        "label": "EconomyFactory",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.Factoryabstractclass.EconomyFactory",
+        "description": "Factory_design_pattern.Factoryabstractclass.EconomyFactory",
+        "peekOfCode": "class EconomyFactory(TicketFactory):\n    def createdrink(self):\n        return EconomyDrink()\n    def createfood(self):\n        return EconomyFood()\n    def createseat(self):\n        return EconomySeat()",
+        "detail": "Factory_design_pattern.Factoryabstractclass.EconomyFactory",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumFactory",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.Factoryabstractclass.PremiumFactory",
+        "description": "Factory_design_pattern.Factoryabstractclass.PremiumFactory",
+        "peekOfCode": "class PremiumFactory(TicketFactory):\n    def createdrink(self):\n        return PremiumDrink()\n    def createfood(self):\n        return PremiumFood()\n    def createseat(self):\n        return PremiumSeat()",
+        "detail": "Factory_design_pattern.Factoryabstractclass.PremiumFactory",
+        "documentation": {}
+    },
+    {
+        "label": "TicketFactory",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.Factoryabstractclass.TicketFactory",
+        "description": "Factory_design_pattern.Factoryabstractclass.TicketFactory",
+        "peekOfCode": "class TicketFactory(ABC):\n    def __init__(self) -> None:\n        super().__init__()\n    @abstractclassmethod\n    def createdrink():\n        pass\n    @abstractclassmethod\n    def createfood():\n        pass\n    @abstractclassmethod",
+        "detail": "Factory_design_pattern.Factoryabstractclass.TicketFactory",
+        "documentation": {}
+    },
+    {
+        "label": "DecideType",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.TicketTypes.DecideType",
+        "description": "Factory_design_pattern.TicketTypes.DecideType",
+        "peekOfCode": "class DecideType:\n    @staticmethod\n    def decidetype(typ):\n        if typ == TicketTypes.Premium.name:\n            return PremiumFactory()\n        elif typ == TicketTypes.Business.name:\n            return BusinessFactory()\n        elif typ == TicketTypes.Economy.name:\n            return EconomyFactory()\n        else:",
+        "detail": "Factory_design_pattern.TicketTypes.DecideType",
+        "documentation": {}
+    },
+    {
+        "label": "TicketTypes",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.TicketTypes.TicketsTypes",
+        "description": "Factory_design_pattern.TicketTypes.TicketsTypes",
+        "peekOfCode": "class TicketTypes(Enum):\n    Premium = 1\n    Business = 2\n    Economy = 3",
+        "detail": "Factory_design_pattern.TicketTypes.TicketsTypes",
+        "documentation": {}
+    },
+    {
+        "label": "TicketCounter",
+        "kind": 6,
+        "importPath": "Factory_design_pattern.TicketCounter",
+        "description": "Factory_design_pattern.TicketCounter",
+        "peekOfCode": "class TicketCounter():\n    def __init__(self) -> None:\n        self.typ = None\n        self.name = None\n        self.sett = {'Premium', 'Economy', 'Business'}\n    def getticketype(self):\n        count = 3\n        while count:\n            self.typ = input('please inter ticket type you want to purchase: ')\n            if self.typ not in self.sett:",
+        "detail": "Factory_design_pattern.TicketCounter",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidButton",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Button.AndroidButton",
+        "description": "PhoneFactory.Component.Button.AndroidButton",
+        "peekOfCode": "class AndroidButton(Button):\n    pass",
+        "detail": "PhoneFactory.Component.Button.AndroidButton",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Button.button",
+        "description": "PhoneFactory.Component.Button.button",
+        "peekOfCode": "class Button(Protocol):\n    pass",
+        "detail": "PhoneFactory.Component.Button.button",
+        "documentation": {}
+    },
+    {
+        "label": "IOSButton",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Button.IOSButton",
+        "description": "PhoneFactory.Component.Button.IOSButton",
+        "peekOfCode": "class IOSButton(Button):\n    pass",
+        "detail": "PhoneFactory.Component.Button.IOSButton",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsButton",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Button.WindowsButton",
+        "description": "PhoneFactory.Component.Button.WindowsButton",
+        "peekOfCode": "class WindowsButton(Button):\n    pass",
+        "detail": "PhoneFactory.Component.Button.WindowsButton",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidDropDown",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Dropdown.AndroidDropDown",
+        "description": "PhoneFactory.Component.Dropdown.AndroidDropDown",
+        "peekOfCode": "class AndroidDropDown(DropDown):\n    pass",
+        "detail": "PhoneFactory.Component.Dropdown.AndroidDropDown",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Dropdown.dropdown",
+        "description": "PhoneFactory.Component.Dropdown.dropdown",
+        "peekOfCode": "class DropDown(Protocol):\n    pass",
+        "detail": "PhoneFactory.Component.Dropdown.dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "IOSDropDown",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Dropdown.IOSDropDown",
+        "description": "PhoneFactory.Component.Dropdown.IOSDropDown",
+        "peekOfCode": "class IOSDropDown(DropDown):\n    pass",
+        "detail": "PhoneFactory.Component.Dropdown.IOSDropDown",
+        "documentation": {}
+    },
+    {
+        "label": "windowsDropDown",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Dropdown.WindowsDropDown",
+        "description": "PhoneFactory.Component.Dropdown.WindowsDropDown",
+        "peekOfCode": "class windowsDropDown(DropDown):\n    pass",
+        "detail": "PhoneFactory.Component.Dropdown.WindowsDropDown",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidMenu",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Menu.AndroidMenu",
+        "description": "PhoneFactory.Component.Menu.AndroidMenu",
+        "peekOfCode": "class AndroidMenu(MenuInterface):\n    def menu(self):\n        pass",
+        "detail": "PhoneFactory.Component.Menu.AndroidMenu",
+        "documentation": {}
+    },
+    {
+        "label": "IOSMenu",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Menu.IOSMenu",
+        "description": "PhoneFactory.Component.Menu.IOSMenu",
+        "peekOfCode": "class IOSMenu(MenuInterface):\n    def menu(self) -> None:\n        pass",
+        "detail": "PhoneFactory.Component.Menu.IOSMenu",
+        "documentation": {}
+    },
+    {
+        "label": "MenuInterface",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Menu.menu",
+        "description": "PhoneFactory.Component.Menu.menu",
+        "peekOfCode": "class MenuInterface(Protocol):\n    def menu(self) -> None:\n        pass",
+        "detail": "PhoneFactory.Component.Menu.menu",
+        "documentation": {}
+    },
+    {
+        "label": "windowMenu",
+        "kind": 6,
+        "importPath": "PhoneFactory.Component.Menu.windowMenu",
+        "description": "PhoneFactory.Component.Menu.windowMenu",
+        "peekOfCode": "class windowMenu(menu):\n    pass",
+        "detail": "PhoneFactory.Component.Menu.windowMenu",
+        "documentation": {}
+    },
+    {
+        "label": "AndroidUIFactory",
+        "kind": 6,
+        "importPath": "PhoneFactory.AndroidUIFactory",
+        "description": "PhoneFactory.AndroidUIFactory",
+        "peekOfCode": "class AndroidUIFactory(UIFactory):\n    def createMenu(self):\n        return AndroidMenu()\n    def createButton(self):\n        return AndroidButton()\n    def createDropDown(self):\n        return AndroidDropDown()",
+        "detail": "PhoneFactory.AndroidUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "PhoneFactory.client",
+        "description": "PhoneFactory.client",
+        "peekOfCode": "def main():\n    flutter = F.flutterr(S.SupportedPlatform.Android)\n    uiFactory = flutter.createUiFactory()\n    menu = uiFactory.createMenu()\n    button = uiFactory.createButton()\n    dropdown = uiFactory.createDropDown()\n    print(flutter)\nif __name__ == '__main__':\n    main()",
+        "detail": "PhoneFactory.client",
+        "documentation": {}
+    },
+    {
+        "label": "flutterr",
+        "kind": 6,
+        "importPath": "PhoneFactory.Flutterr",
+        "description": "PhoneFactory.Flutterr",
+        "peekOfCode": "class flutterr:\n    def __int__(self, platform):\n        self.platform = platform\n    @staticmethod\n    def setTheme():\n        print(\"Setting the theme\")\n    @staticmethod\n    def setRefreshRate():\n        print(\"Setting the refresh rate for the Application\")\n    def createUiFactory(self):",
+        "detail": "PhoneFactory.Flutterr",
+        "documentation": {}
+    },
+    {
+        "label": "IOSUIFactory",
+        "kind": 6,
+        "importPath": "PhoneFactory.IOSUIFactory",
+        "description": "PhoneFactory.IOSUIFactory",
+        "peekOfCode": "class IOSUIFactory(UIFactory):\n    def createMenu(self):\n        return IOSMenu()\n    def createButton(self):\n        return IOSButton()\n    def createDropDown(self):\n        return IOSDropDown()",
+        "detail": "PhoneFactory.IOSUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "SupportedPlatform",
+        "kind": 6,
+        "importPath": "PhoneFactory.SupportedPlatform",
+        "description": "PhoneFactory.SupportedPlatform",
+        "peekOfCode": "class SupportedPlatform(Enum):\n    Android = 1\n    IOS = 2\n    Windows = 3",
+        "detail": "PhoneFactory.SupportedPlatform",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactory",
+        "kind": 6,
+        "importPath": "PhoneFactory.UIFactory",
+        "description": "PhoneFactory.UIFactory",
+        "peekOfCode": "class UIFactory(Protocol):\n    def createMenu(self):\n        pass\n    def createDropDown(self):\n        pass \n    def createButton(self):\n        pass",
+        "detail": "PhoneFactory.UIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "UIFactoryFactory",
+        "kind": 6,
+        "importPath": "PhoneFactory.UIFactoryFactory",
+        "description": "PhoneFactory.UIFactoryFactory",
+        "peekOfCode": "class UIFactoryFactory:\n    @staticmethod\n    def createUIFactory(supportedPlatform: SupportedPlatform) -> Optional[UIFactory]:\n        if supportedPlatform == SupportedPlatform.Android:\n            return AndroidUIFactory()\n        elif supportedPlatform == SupportedPlatform.Windows:\n            return WindowsUIFactory()\n        elif supportedPlatform == SupportedPlatform.IOS:\n            return IOSUIFactory()\n        else:",
+        "detail": "PhoneFactory.UIFactoryFactory",
+        "documentation": {}
+    },
+    {
+        "label": "WindowsUIFactory",
+        "kind": 6,
+        "importPath": "PhoneFactory.WindowUIFactory",
+        "description": "PhoneFactory.WindowUIFactory",
+        "peekOfCode": "class WindowsUIFactory(UIFactory):\n    def createMenu(self):\n        return windowMenu()\n    def createButton(self):\n        return WindowsButton()\n    def createDropDown(self):\n        return WindowsDropDown()",
+        "detail": "PhoneFactory.WindowUIFactory",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Prototype Method.client",
+        "description": "Prototype Method.client",
+        "peekOfCode": "def main():\n    localTrain = Train()\n    localTrain.setName(\"Local\")\n    localTrain.setfare(250)\n    localTrain.settrain_type(\"EMU\")\n    localTrain.setengine_type(\"Electric\")\n    localTrain.setno_of_seats(50)\n    Express = Train()\n    Express.setName(\"Express Train\")\n    Express.setfare(200)",
+        "detail": "Prototype Method.client",
+        "documentation": {}
+    },
+    {
+        "label": "prototype",
+        "kind": 6,
+        "importPath": "Prototype Method.prototype",
+        "description": "Prototype Method.prototype",
+        "peekOfCode": "class prototype(Protocol):\n    def clone(self):\n        pass",
+        "detail": "Prototype Method.prototype",
+        "documentation": {}
+    },
+    {
+        "label": "LocalTrain",
+        "kind": 6,
+        "importPath": "Prototype Method.Train",
+        "description": "Prototype Method.Train",
+        "peekOfCode": "class LocalTrain:\n    def __init__(self):\n        self.name = \"\"\n        self.fare = 0\n        self.train_type = \"\"\n        self.engine_type = \"\"\n        self.no_of_seats = 0\n        self.timing = \"\"\n        self.source_station = \"\"\n        self.destination_station = \"\"",
+        "detail": "Prototype Method.Train",
+        "documentation": {}
+    },
+    {
+        "label": "Train",
+        "kind": 6,
+        "importPath": "Prototype Method.Train",
+        "description": "Prototype Method.Train",
+        "peekOfCode": "class Train(LocalTrain, prototype):\n    def __init__(self):\n        super().__init__()\n        self.Tainfare = self.fare\n        self.train_type = self.train_type\n        self.engine_type = self.engine_type\n        self.no_of_seats = self.no_of_seats\n    def clone(self):\n        return copy.deepcopy(self)\n    def getName(self):",
+        "detail": "Prototype Method.Train",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 6,
+        "importPath": "Prototype Method.TrainRegistry",
+        "description": "Prototype Method.TrainRegistry",
+        "peekOfCode": "class register:\n    def __init__(self):\n        self.registerDictionary = {}\n    def get(self, train_name):\n        return self.registerDictionary.get(train_name)\n    def save(self, TrainObject):\n        self.registerDictionary[TrainObject.getName()] = TrainObject\n        print(self.registerDictionary)",
+        "detail": "Prototype Method.TrainRegistry",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Singleton Method.client",
+        "description": "Singleton Method.client",
+        "peekOfCode": "def main():\n    instance1 = SingletonInMultiThreading.getInstance()\n    instance2= SingletonInMultiThreading.getInstance()\n    instance3 = SingletonInMultiThreading.getInstance()\n    print(instance1)\n    print(instance2)\n    print(instance3) \nif __name__ == '__main__':\n    main()",
+        "detail": "Singleton Method.client",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonInMultiThreading",
+        "kind": 6,
+        "importPath": "Singleton Method.singleton",
+        "description": "Singleton Method.singleton",
+        "peekOfCode": "class SingletonInMultiThreading:\n    __instance = None\n    @staticmethod\n    def getInstance():\n        if SingletonInMultiThreading.__instance == None:\n            with threading.Lock():\n                if SingletonInMultiThreading.__instance == None:\n                    SingletonInMultiThreading.__instance = SingletonInMultiThreading()\n        return SingletonInMultiThreading.__instance",
+        "detail": "Singleton Method.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    }
+]

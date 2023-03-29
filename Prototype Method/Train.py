@@ -15,7 +15,7 @@ class LocalTrain:
         self.destination_station = ""
 
 
-class Train(LocalTrain):
+class Train(LocalTrain, prototype):
 
     def __init__(self):
         super().__init__()
