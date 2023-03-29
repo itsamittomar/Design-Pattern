@@ -16,7 +16,7 @@ class Student:
         self.psp = builder.psp
         self.batchName = builder.batchName
 
-    @staticmethod
+
     def builder():
         return Student.Builder()
 

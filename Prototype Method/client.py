@@ -1,6 +1,7 @@
-from Train import LocalTrain , Train
+from Train import LocalTrain, Train
 from TrainRegistry import register
 import datetime
+
 
 def main():
     localTrain = Train()
@@ -9,7 +10,7 @@ def main():
     localTrain.settrain_type("EMU")
     localTrain.setengine_type("Electric")
     localTrain.setno_of_seats(50)
-    
+
     Express = Train()
     Express.setName("Express Train")
     Express.setfare(200)
@@ -22,7 +23,7 @@ def main():
     Fast.setfare(200)
     Fast.settrain_type("Fast Train")
     Fast.setengine_type("Coal ")
-    Fast.setno_of_seats(55) 
+    Fast.setno_of_seats(55)
 
     womenspecial = Train()
     womenspecial.setName("Women")
@@ -36,9 +37,6 @@ def main():
     register_instance.save(Fast)
     register_instance.save(womenspecial)
 
-
-    
-    
     express = register_instance.get("Express Train")
     ExpressTrain = express.clone()
     ExpressTrain.settiming("1:00 PM")
@@ -53,7 +51,6 @@ def main():
     FastTrain.setdestination_station("NZM")
     print(FastTrain)
 
-
     women = register_instance.get("Women")
     womenspecial = women.clone()
     womenspecial.settiming("08:00 AM")
@@ -62,6 +59,5 @@ def main():
     print(womenspecial)
 
 
-
-if __name__ =="__main__":
+if __name__ == "__main__":
     main()
