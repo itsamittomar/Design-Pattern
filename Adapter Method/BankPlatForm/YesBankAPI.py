@@ -1,10 +1,10 @@
 class YesBankAPI:
-    def queryBalance(self):
-        return 0
-
-    def checkUser(self):
+    def checkBalance(self):
         return 1
 
-    def checkTransaction(self):
-        return 1
+    def authenticateUser(self):
+        return True
+
+    def transaction(self):
+        return True
     

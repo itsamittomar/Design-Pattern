@@ -6,9 +6,9 @@ class PhonePe:
 
     def TransferMoney(self):
         print("inside ", self.BankName)
-        if self.BankName.YesUserCheck():
-            if self.BankName.YesUserCheck():
-                if self.BankName.YesTransactionCheck():
+        if self.BankName.authenticate():
+            if self.BankName.checkBalance():
+                if self.BankName.transaction():
                     print(f'Transaction Completed')
 
 

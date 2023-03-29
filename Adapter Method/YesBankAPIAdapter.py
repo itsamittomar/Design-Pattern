@@ -3,17 +3,20 @@ from BankAdapter import BankInterface
 
 
 class YesBankApiAdapter(BankInterface):
-    def __int__(self):
-        self.BankObject = YesBankAPI
+    def __init__(self):
+        self.BankObject = YesBankAPI()
+        
 
 
 
-    def YesCheckBalance(self):
-        return self.BankObject.queryBalance()
+    def checkBalance(self):
+        return self.BankObject.checkBalance()
 
-    def YesUserCheck(self):
-        print(self.BankObject,"Bank Object")
-        return self.BankObject.checkUser()
+    def authenticate(self):
+        return self.BankObject.authenticateUser()
 
-    def YesTransactionCheck(self):
-        return self.BankObject.checkTransaction()
+    def transaction(self):
+        return self.BankObject.transaction()
+    
+
+

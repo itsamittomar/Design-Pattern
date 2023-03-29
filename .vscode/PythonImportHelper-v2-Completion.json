@@ -718,29 +718,11 @@
         "documentation": {}
     },
     {
-        "label": "os",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
-        "documentation": {}
-    },
-    {
-        "label": "site",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "site",
-        "description": "site",
-        "detail": "site",
-        "documentation": {}
-    },
-    {
         "label": "ICICIBankAPI",
         "kind": 6,
         "importPath": "Adapter Method.BankPlatForm.ICICIBank",
         "description": "Adapter Method.BankPlatForm.ICICIBank",
-        "peekOfCode": "class ICICIBankAPI:\n    def calculateBalance(self):\n        return 0\n    def checkUser(self):\n        return 1\n    def checkTransaction(self):\n        return 1",
+        "peekOfCode": "class ICICIBankAPI:\n    def queryBalance(self):\n        return 0\n    def checkUser(self):\n        return 1\n    def transfer(self):\n        return 1",
         "detail": "Adapter Method.BankPlatForm.ICICIBank",
         "documentation": {}
     },
@@ -749,7 +731,7 @@
         "kind": 6,
         "importPath": "Adapter Method.BankPlatForm.YesBankAPI",
         "description": "Adapter Method.BankPlatForm.YesBankAPI",
-        "peekOfCode": "class YesBankAPI:\n    def queryBalance(self):\n        return 0\n    def checkUser(self):\n        return 1\n    def checkTransaction(self):\n        return 1",
+        "peekOfCode": "class YesBankAPI:\n    def checkBalance(self):\n        return 1\n    def authenticateUser(self):\n        return True\n    def transaction(self):\n        return True",
         "detail": "Adapter Method.BankPlatForm.YesBankAPI",
         "documentation": {}
     },
@@ -767,7 +749,7 @@
         "kind": 6,
         "importPath": "Adapter Method.Phonepe",
         "description": "Adapter Method.Phonepe",
-        "peekOfCode": "class PhonePe:\n    def __init__(self):\n        self.BankName = YesBankApiAdapter()\n    def TransferMoney(self):\n        print(\"inside \", self.BankName)\n        if self.BankName.YesUserCheck():\n            if self.BankName.YesUserCheck():\n                if self.BankName.YesTransactionCheck():\n                    print(f'Transaction Completed')\nif __name__ == '__main__':",
+        "peekOfCode": "class PhonePe:\n    def __init__(self):\n        self.BankName = YesBankApiAdapter()\n    def TransferMoney(self):\n        print(\"inside \", self.BankName)\n        if self.BankName.authenticate():\n            if self.BankName.checkBalance():\n                if self.BankName.transaction():\n                    print(f'Transaction Completed')\nif __name__ == '__main__':",
         "detail": "Adapter Method.Phonepe",
         "documentation": {}
     },
@@ -776,7 +758,7 @@
         "kind": 6,
         "importPath": "Adapter Method.YesBankAPIAdapter",
         "description": "Adapter Method.YesBankAPIAdapter",
-        "peekOfCode": "class YesBankApiAdapter(BankInterface):\n    def __int__(self):\n        self.BankObject = YesBankAPI\n    def YesCheckBalance(self):\n        return self.BankObject.queryBalance()\n    def YesUserCheck(self):\n        print(self.BankObject,\"Bank Object\")\n        return self.BankObject.checkUser()\n    def YesTransactionCheck(self):\n        return self.BankObject.checkTransaction()",
+        "peekOfCode": "class YesBankApiAdapter(BankInterface):\n    def __init__(self):\n        self.BankObject = YesBankAPI()\n    def checkBalance(self):\n        return self.BankObject.checkBalance()\n    def authenticate(self):\n        return self.BankObject.authenticateUser()\n    def transaction(self):\n        return self.BankObject.transaction()",
         "detail": "Adapter Method.YesBankAPIAdapter",
         "documentation": {}
     },
@@ -1228,78 +1210,6 @@
         "description": "Singleton Method.singleton",
         "peekOfCode": "class SingletonInMultiThreading:\n    __instance = None\n    @staticmethod\n    def getInstance():\n        if SingletonInMultiThreading.__instance == None:\n            with threading.Lock():\n                if SingletonInMultiThreading.__instance == None:\n                    SingletonInMultiThreading.__instance = SingletonInMultiThreading()\n        return SingletonInMultiThreading.__instance",
         "detail": "Singleton Method.singleton",
-        "documentation": {}
-    },
-    {
-        "label": "bin_dir",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "base",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"PATH\"]",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"VIRTUAL_ENV\"]",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "prev_length",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.path[:]",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.real_prefix",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
-        "documentation": {}
-    },
-    {
-        "label": "sys.prefix",
-        "kind": 5,
-        "importPath": "venv.Scripts.activate_this",
-        "description": "venv.Scripts.activate_this",
-        "peekOfCode": "sys.prefix = base",
-        "detail": "venv.Scripts.activate_this",
         "documentation": {}
     }
 ]
