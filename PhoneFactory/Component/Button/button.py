@@ -1,4 +1,5 @@
-from typing import Protocol
+from abc import ABC , abstractclassmethod
 
-class Button(Protocol):
-    pass
+class Button(ABC):
+    def __int__(self) -> None:
+        pass

@@ -1,29 +1,5 @@
 [
     {
-        "label": "Drink",
-        "importPath": "components.drinkmenu.Drink",
-        "description": "components.drinkmenu.Drink",
-        "isExtraImport": true,
-        "detail": "components.drinkmenu.Drink",
-        "documentation": {}
-    },
-    {
-        "label": "Drink",
-        "importPath": "components.drinkmenu.Drink",
-        "description": "components.drinkmenu.Drink",
-        "isExtraImport": true,
-        "detail": "components.drinkmenu.Drink",
-        "documentation": {}
-    },
-    {
-        "label": "Drink",
-        "importPath": "components.drinkmenu.Drink",
-        "description": "components.drinkmenu.Drink",
-        "isExtraImport": true,
-        "detail": "components.drinkmenu.Drink",
-        "documentation": {}
-    },
-    {
         "label": "abc",
         "kind": 6,
         "isExtraImport": true,
@@ -41,22 +17,6 @@
         "documentation": {}
     },
     {
-        "label": "abstractclassmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
         "label": "ABC",
         "importPath": "abc",
         "description": "abc",
@@ -81,11 +41,107 @@
         "documentation": {}
     },
     {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
         "label": "abstractclassmethod",
         "importPath": "abc",
         "description": "abc",
         "isExtraImport": true,
         "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractclassmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "BankInterface",
+        "importPath": "BankAdapter",
+        "description": "BankAdapter",
+        "isExtraImport": true,
+        "detail": "BankAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "BankInterface",
+        "importPath": "BankAdapter",
+        "description": "BankAdapter",
+        "isExtraImport": true,
+        "detail": "BankAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "YesBankApiAdapter",
+        "importPath": "YesBankAPIAdapter",
+        "description": "YesBankAPIAdapter",
+        "isExtraImport": true,
+        "detail": "YesBankAPIAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "YesBankAPI",
+        "importPath": "BankPlatForm.YesBankAPI",
+        "description": "BankPlatForm.YesBankAPI",
+        "isExtraImport": true,
+        "detail": "BankPlatForm.YesBankAPI",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
+        "documentation": {}
+    },
+    {
+        "label": "Drink",
+        "importPath": "components.drinkmenu.Drink",
+        "description": "components.drinkmenu.Drink",
+        "isExtraImport": true,
+        "detail": "components.drinkmenu.Drink",
         "documentation": {}
     },
     {
@@ -305,11 +361,51 @@
         "documentation": {}
     },
     {
-        "label": "Protocol",
-        "importPath": "typing",
-        "description": "typing",
+        "label": "Button",
+        "importPath": "Component.Button.button",
+        "description": "Component.Button.button",
         "isExtraImport": true,
-        "detail": "typing",
+        "detail": "Component.Button.button",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "button",
+        "description": "button",
+        "isExtraImport": true,
+        "detail": "button",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "button",
+        "description": "button",
+        "isExtraImport": true,
+        "detail": "button",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
+        "documentation": {}
+    },
+    {
+        "label": "DropDown",
+        "importPath": "dropdown",
+        "description": "dropdown",
+        "isExtraImport": true,
+        "detail": "dropdown",
         "documentation": {}
     },
     {
@@ -350,46 +446,6 @@
         "description": "typing",
         "isExtraImport": true,
         "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Button",
-        "importPath": "button",
-        "description": "button",
-        "isExtraImport": true,
-        "detail": "button",
-        "documentation": {}
-    },
-    {
-        "label": "Button",
-        "importPath": "button",
-        "description": "button",
-        "isExtraImport": true,
-        "detail": "button",
-        "documentation": {}
-    },
-    {
-        "label": "DropDown",
-        "importPath": "dropdown",
-        "description": "dropdown",
-        "isExtraImport": true,
-        "detail": "dropdown",
-        "documentation": {}
-    },
-    {
-        "label": "DropDown",
-        "importPath": "dropdown",
-        "description": "dropdown",
-        "isExtraImport": true,
-        "detail": "dropdown",
-        "documentation": {}
-    },
-    {
-        "label": "DropDown",
-        "importPath": "dropdown",
-        "description": "dropdown",
-        "isExtraImport": true,
-        "detail": "dropdown",
         "documentation": {}
     },
     {
@@ -680,6 +736,51 @@
         "documentation": {}
     },
     {
+        "label": "ICICIBankAPI",
+        "kind": 6,
+        "importPath": "Adapter Method.BankPlatForm.ICICIBank",
+        "description": "Adapter Method.BankPlatForm.ICICIBank",
+        "peekOfCode": "class ICICIBankAPI:\n    def calculateBalance(self):\n        return 0\n    def checkUser(self):\n        return 1\n    def checkTransaction(self):\n        return 1",
+        "detail": "Adapter Method.BankPlatForm.ICICIBank",
+        "documentation": {}
+    },
+    {
+        "label": "YesBankAPI",
+        "kind": 6,
+        "importPath": "Adapter Method.BankPlatForm.YesBankAPI",
+        "description": "Adapter Method.BankPlatForm.YesBankAPI",
+        "peekOfCode": "class YesBankAPI:\n    def queryBalance(self):\n        return 0\n    def checkUser(self):\n        return 1\n    def checkTransaction(self):\n        return 1",
+        "detail": "Adapter Method.BankPlatForm.YesBankAPI",
+        "documentation": {}
+    },
+    {
+        "label": "BankInterface",
+        "kind": 6,
+        "importPath": "Adapter Method.BankAdapter",
+        "description": "Adapter Method.BankAdapter",
+        "peekOfCode": "class BankInterface(ABC):\n    def checkBalance(self):\n        pass\n    def checkUser(self):\n        pass\n    def checkTransaction(self):\n        pass",
+        "detail": "Adapter Method.BankAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "PhonePe",
+        "kind": 6,
+        "importPath": "Adapter Method.Phonepe",
+        "description": "Adapter Method.Phonepe",
+        "peekOfCode": "class PhonePe:\n    def __init__(self):\n        self.BankName = YesBankApiAdapter()\n    def TransferMoney(self):\n        print(\"inside \", self.BankName)\n        if self.BankName.YesUserCheck():\n            if self.BankName.YesUserCheck():\n                if self.BankName.YesTransactionCheck():\n                    print(f'Transaction Completed')\nif __name__ == '__main__':",
+        "detail": "Adapter Method.Phonepe",
+        "documentation": {}
+    },
+    {
+        "label": "YesBankApiAdapter",
+        "kind": 6,
+        "importPath": "Adapter Method.YesBankAPIAdapter",
+        "description": "Adapter Method.YesBankAPIAdapter",
+        "peekOfCode": "class YesBankApiAdapter(BankInterface):\n    def __int__(self):\n        self.BankObject = YesBankAPI\n    def YesCheckBalance(self):\n        return self.BankObject.queryBalance()\n    def YesUserCheck(self):\n        print(self.BankObject,\"Bank Object\")\n        return self.BankObject.checkUser()\n    def YesTransactionCheck(self):\n        return self.BankObject.checkTransaction()",
+        "detail": "Adapter Method.YesBankAPIAdapter",
+        "documentation": {}
+    },
+    {
         "label": "InvalidNameException",
         "kind": 6,
         "importPath": "Builder Method.customer",
@@ -891,7 +992,7 @@
         "kind": 6,
         "importPath": "PhoneFactory.Component.Button.AndroidButton",
         "description": "PhoneFactory.Component.Button.AndroidButton",
-        "peekOfCode": "class AndroidButton(Button):\n    pass",
+        "peekOfCode": "class AndroidButton(Button):\n    def __int__(self):\n        pass",
         "detail": "PhoneFactory.Component.Button.AndroidButton",
         "documentation": {}
     },
@@ -900,7 +1001,7 @@
         "kind": 6,
         "importPath": "PhoneFactory.Component.Button.button",
         "description": "PhoneFactory.Component.Button.button",
-        "peekOfCode": "class Button(Protocol):\n    pass",
+        "peekOfCode": "class Button(ABC):\n    def __int__(self) -> None:\n        pass",
         "detail": "PhoneFactory.Component.Button.button",
         "documentation": {}
     },
@@ -1107,7 +1208,7 @@
         "kind": 6,
         "importPath": "Prototype Method.TrainRegistry",
         "description": "Prototype Method.TrainRegistry",
-        "peekOfCode": "class register:\n    def __init__(self):\n        self.registerDictionary = {}\n    def get(self, train_name):\n        return self.registerDictionary.get(train_name)\n    def save(self, TrainObject):\n        self.registerDictionary[TrainObject.getName()] = TrainObject\n        print(self.registerDictionary)",
+        "peekOfCode": "class register:\n    def __init__(self):\n        self.registerDictionary = {}\n    def get(self, train_name):\n        return self.registerDictionary.get(train_name)\n    def save(self,TrainObject):\n        self.registerDictionary[TrainObject.getName()]= TrainObject",
         "detail": "Prototype Method.TrainRegistry",
         "documentation": {}
     },
