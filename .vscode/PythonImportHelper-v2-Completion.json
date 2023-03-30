@@ -25,6 +25,14 @@
         "documentation": {}
     },
     {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
         "label": "abstractclassmethod",
         "importPath": "abc",
         "description": "abc",
@@ -118,6 +126,111 @@
         "description": "BankPlatForm.YesBankAPI",
         "isExtraImport": true,
         "detail": "BankPlatForm.YesBankAPI",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleMeetAdapter",
+        "importPath": "GoogleMeetAdapter",
+        "description": "GoogleMeetAdapter",
+        "isExtraImport": true,
+        "detail": "GoogleMeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomMeetAdapter",
+        "importPath": "ZoomMeetAdapter",
+        "description": "ZoomMeetAdapter",
+        "isExtraImport": true,
+        "detail": "ZoomMeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMeetAdapter",
+        "importPath": "TeamsMeetAdapter",
+        "description": "TeamsMeetAdapter",
+        "isExtraImport": true,
+        "detail": "TeamsMeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "MeetInterface",
+        "importPath": "MeetAdapter",
+        "description": "MeetAdapter",
+        "isExtraImport": true,
+        "detail": "MeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "MeetInterface",
+        "importPath": "MeetAdapter",
+        "description": "MeetAdapter",
+        "isExtraImport": true,
+        "detail": "MeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "MeetInterface",
+        "importPath": "MeetAdapter",
+        "description": "MeetAdapter",
+        "isExtraImport": true,
+        "detail": "MeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleMeet",
+        "importPath": "Calendly.MeetPlatform.googleMeet",
+        "description": "Calendly.MeetPlatform.googleMeet",
+        "isExtraImport": true,
+        "detail": "Calendly.MeetPlatform.googleMeet",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMeet",
+        "importPath": "Calendly.MeetPlatform.TeamMeet",
+        "description": "Calendly.MeetPlatform.TeamMeet",
+        "isExtraImport": true,
+        "detail": "Calendly.MeetPlatform.TeamMeet",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomMeet",
+        "importPath": "Calendly.MeetPlatform.ZoomMeet",
+        "description": "Calendly.MeetPlatform.ZoomMeet",
+        "isExtraImport": true,
+        "detail": "Calendly.MeetPlatform.ZoomMeet",
         "documentation": {}
     },
     {
@@ -675,15 +788,6 @@
         "documentation": {}
     },
     {
-        "label": "datetime",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "datetime",
-        "description": "datetime",
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
         "label": "copy",
         "kind": 6,
         "isExtraImport": true,
@@ -796,6 +900,78 @@
         "description": "Builder Method.customer",
         "peekOfCode": "class Student:\n    def __init__(self, builder):\n        self.id = builder.id\n        self.name = builder.name\n        self.yoe = builder.yoe\n        self.gradyear = builder.gradyear\n        self.psp = builder.psp\n        self.batchName = builder.batchName\n    def builder():\n        return Student.Builder()",
         "detail": "Builder Method.customer",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleMeet",
+        "kind": 6,
+        "importPath": "Calendly.MeetPlatform.googleMeet",
+        "description": "Calendly.MeetPlatform.googleMeet",
+        "peekOfCode": "class GoogleMeet:\n    def GoogleMeetLink(self):\n        time = datetime.now()\n        link= \"Google - \" + str(random.random()) +\"-\"+ str(time)\n        return link",
+        "detail": "Calendly.MeetPlatform.googleMeet",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMeet",
+        "kind": 6,
+        "importPath": "Calendly.MeetPlatform.TeamMeet",
+        "description": "Calendly.MeetPlatform.TeamMeet",
+        "peekOfCode": "class TeamMeet:\n    def TeamMeetLink(self):\n        time = datetime.now()\n        link = \"Team\" + str(random.random()) + str(time)\n        return link",
+        "detail": "Calendly.MeetPlatform.TeamMeet",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomMeet",
+        "kind": 6,
+        "importPath": "Calendly.MeetPlatform.ZoomMeet",
+        "description": "Calendly.MeetPlatform.ZoomMeet",
+        "peekOfCode": "class ZoomMeet:\n    def ZoomMeetLink(self):\n        time = datetime.now()\n        link = \"Zoom\" + str(random.random()) + str(time)\n        return link",
+        "detail": "Calendly.MeetPlatform.ZoomMeet",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "Calendly.client",
+        "description": "Calendly.client",
+        "peekOfCode": "class Client:\n    def __init__(self):\n        self.MeetLinkObject = GoogleMeetAdapter()\n    def GetMeetLink(self):\n        return self.MeetLinkObject.MeetLink()\nif __name__ == '__main__':\n    obj = Client()\n    print(obj.GetMeetLink())",
+        "detail": "Calendly.client",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleMeetAdapter",
+        "kind": 6,
+        "importPath": "Calendly.GoogleMeetAdapter",
+        "description": "Calendly.GoogleMeetAdapter",
+        "peekOfCode": "class GoogleMeetAdapter(MeetInterface):\n    def __init__(self):\n        self.MeetObject = GoogleMeet()\n    def MeetLink(self):\n        return self.MeetObject.GoogleMeetLink()",
+        "detail": "Calendly.GoogleMeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "MeetInterface",
+        "kind": 6,
+        "importPath": "Calendly.MeetAdapter",
+        "description": "Calendly.MeetAdapter",
+        "peekOfCode": "class MeetInterface(ABC):\n    def MeetLink(self):\n        pass",
+        "detail": "Calendly.MeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "TeamMeetAdapter",
+        "kind": 6,
+        "importPath": "Calendly.TeamsMeetAdapter",
+        "description": "Calendly.TeamsMeetAdapter",
+        "peekOfCode": "class TeamMeetAdapter(MeetInterface):\n    def __init__(self):\n        self.MeetObject = TeamMeet()\n    def MeetLink(self):\n        return self.MeetObject.TeamMeetLink()",
+        "detail": "Calendly.TeamsMeetAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "ZoomMeetAdapter",
+        "kind": 6,
+        "importPath": "Calendly.ZoomMeetAdapter",
+        "description": "Calendly.ZoomMeetAdapter",
+        "peekOfCode": "class ZoomMeetAdapter(MeetInterface):\n    def __init__(self):\n        self.MeetObject = ZoomMeet()\n    def MeetLink(self):\n        return self.MeetObject.ZoomMeetLink()",
+        "detail": "Calendly.ZoomMeetAdapter",
         "documentation": {}
     },
     {
