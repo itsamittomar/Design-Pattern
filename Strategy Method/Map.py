@@ -5,7 +5,7 @@ class Map:
     def __init__(self):
         self.source = ""
         self.destination = ""
-        self.mode = {"Bike", "Car", "Flight"}
+        self.mode = {"Bike", "Car", "Flight", "Walk"}
         self.TravellingMode = ""
 
     def getSourceName(self):

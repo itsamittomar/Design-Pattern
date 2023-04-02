@@ -2,6 +2,7 @@ from ModeTypes import ModeType
 from BikePathCalculator import BikePathCalculator
 from CarPathCalculator import CarPathCalculator
 from FlightPathCalculator import FlightPathCalculator
+from WalkPathCalculator import WalkPathCalculator
 
 class DecideMode:
 
@@ -13,5 +14,7 @@ class DecideMode:
             return BikePathCalculator()
         elif typ == ModeType.Flight.name:
             return FlightPathCalculator()
+        elif typ == ModeType.Walk.name:
+            return WalkPathCalculator()
         else:
             raise Exception (f'Invalid Mode type: "{typ}')
