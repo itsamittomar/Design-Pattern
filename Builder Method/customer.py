@@ -1,4 +1,4 @@
-class InvalidNameException(Exception):
+                  class InvalidNameException(Exception):
     pass
 
 class InvalidYoeException(Exception):
