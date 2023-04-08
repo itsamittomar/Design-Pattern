@@ -18,3 +18,5 @@ class SingletonInMultiThreading:
                     SingletonInMultiThreading.__instance = SingletonInMultiThreading()
 
         return SingletonInMultiThreading.__instance
+
+
