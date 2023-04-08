@@ -3,13 +3,8 @@ import threading
 
 class Amazon:
     __instance = None
-
-    def __init__(self):
-        self._orderCancelledSubscriber = {}
-        self._orderPlacedSubscriber = {}
-
-
-
+    _orderCancelledSubscriber = {}
+    _orderPlacedSubscriber = {}
 
     @staticmethod
     def getInstance():
@@ -43,12 +38,12 @@ class Amazon:
         if subscriber in self._orderCancelledSubscriber:
             del self._orderCancelledSubscriber[subscriber]
         else:
-            print(subscriber, "has already unsunscribed from the notification service")
+            print(subscriber, "has already unsubscribed from the notification service")
 
     def orderPlaced(self):
-        print(self._orderPlacedSubscriber,"kjfdbjhhjsdhgjsdhgjchjsd")
         for subscriberObject in self._orderPlacedSubscriber:
-            print(subscriberObject,"subs object")
             subscriberObject.orderPlaced()
 
-
+    def orderCancelled(self):
+        for subscriberObject in self._orderCancelledSubscriber:
+            subscriberObject.orderPlaced()

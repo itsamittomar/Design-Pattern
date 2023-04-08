@@ -11,7 +11,7 @@ class CustomerNotifier(OrderCancelledSubscriber, OrderPlacedSubscriber):
         Object.registerOrderCancelledSubscriber(self)
 
     def orderPlaced(self):
-        return "Notify all the Customers"
+        print("Notify all the Customers")
 
     def orderCancelled(self):
         return "Notify customer for the cancellation"
