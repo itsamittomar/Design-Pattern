@@ -1,6 +1,7 @@
 from DecideMode import DecideMode
 
 
+
 class Map:
     def __init__(self):
         self.source = ""
