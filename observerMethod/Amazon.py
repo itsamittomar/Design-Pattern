@@ -46,4 +46,4 @@ class Amazon:
 
     def orderCancelled(self):
         for subscriberObject in self._orderCancelledSubscriber:
-            subscriberObject.orderPlaced()
+            subscriberObject.orderCancelled()
