@@ -26,3 +26,7 @@ class Board:
 
     def setBoard(self, newBoard):
         self.board = newBoard
+
+
+if __name__ == '__main__':
+    Board(3)

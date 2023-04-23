@@ -1,4 +1,3 @@
-from TicTacToe.Models.Player import Player
 from TicTacToe.Models.cellState import cellState
 
 

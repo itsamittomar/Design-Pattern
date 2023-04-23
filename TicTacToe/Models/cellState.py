@@ -1,6 +1,6 @@
-import enum
+from enum import Enum
 
-class cellState(enum):
+class cellState(Enum):
     EMPTY:1
     FILLED:2
     BLOCKED:3
